@@ -10,10 +10,10 @@
 
 <!-- Optimized by loading CSS asynchronously -->
 
-    <link  rel="preload"  href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"  as="style" onload="this.onload=null;this.rel='stylesheet'">
+    
 
-    <	n	o	s	c	r	i	p	t	>	<	l	i	n	k	r	e	l	=	"	s	t	y	l	e	s	h	e	e	t	" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"></noscript>
 
+    <	n	o	s	c	r	i	p	t	>	<	l	i	n	k	r	e	l	=	"	s	t	y	l	e	s	h	e	e	t	" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"></noscript
 
 
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
