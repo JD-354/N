@@ -10,15 +10,15 @@
 
 <!-- Optimized by loading CSS asynchronously -->
 
-<link  rel="preload"  href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"  as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link  rel="preload"  href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"  as="style" onload="this.onload=null;this.rel='stylesheet'">
 
-<	n	o	s	c	r	i	p	t	>	<	l	i	n	k	r	e	l	=	"	s	t	y	l	e	s	h	e	e	t	" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"></noscript>
+    <	n	o	s	c	r	i	p	t	>	<	l	i	n	k	r	e	l	=	"	s	t	y	l	e	s	h	e	e	t	" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"></noscript>
 
 
 
-<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 
-<noscript><link	rel="stylesheet"	href="https://cdnjs.cloudflare.com/ajax/libs/font- awesome/6.0.0/css/all.min.css"></noscript>
+    <noscript><link	rel="stylesheet"	href="https://cdnjs.cloudflare.com/ajax/libs/font- awesome/6.0.0/css/all.min.css"></noscript>
 
 
 
@@ -338,7 +338,7 @@ font-size: 0.8em;
 
 <li class="nav-item">
 
-<a class="nav-link" href="https://example.com/home"><i class="fas fa-home"></i> Inicio</a>
+<a class="nav-link" href="https://jd-354.github.io/Z/"><i class="fas fa-home"></i> Inicio</a>
 
  
 
